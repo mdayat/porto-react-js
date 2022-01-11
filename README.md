@@ -5,5 +5,5 @@ I created this repository to implement the React technology I just learned a few
 1. Javascript
 2. Tailwind CSS
 
-### Modules
+### Module
 1. React Icons
